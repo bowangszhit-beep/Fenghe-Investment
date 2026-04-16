@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3:*)",
+      "Bash(~/.claude/skills/pdf-to-markdown/.venv/bin/python:*)",
+      "Bash(rm -f 07-*.md 08-*.md 09-*.md)",
+      "Bash(ls -1 *.md)"
+    ]
+  }
+}

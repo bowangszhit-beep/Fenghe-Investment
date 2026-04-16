@@ -1,0 +1,252 @@
+{
+  "main": {
+    "id": "787a70e5916e6c94",
+    "type": "split",
+    "children": [
+      {
+        "id": "a0c12ace26a1d9f6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8c87ca37e14dcceb",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "560ccf68b2a41fe1",
+    "type": "split",
+    "children": [
+      {
+        "id": "c16bf2c3b449816c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "738a4b6bac04e867",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "061879bc0b3b7565",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "73bc182d4dda7808",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 213.5
+  },
+  "right": {
+    "id": "920ccf9fd47650f0",
+    "type": "split",
+    "children": [
+      {
+        "id": "2a5035d58db1ea6f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e330400bc0f6166c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "3b256fa0d97b2ff7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2021/风和为什么成功？.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "风和为什么成功？ 的出链列表"
+            }
+          },
+          {
+            "id": "ee8d1ef380f3336b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "2fc8e0117d1dde9d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "71d6f1deada95284",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "未命名.base",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "未命名 的大纲"
+            }
+          },
+          {
+            "id": "dcf4e1a4da61a3dc",
+            "type": "leaf",
+            "state": {
+              "type": "claudian-view",
+              "state": {},
+              "icon": "bot",
+              "title": "Claudian"
+            }
+          },
+          {
+            "id": "45d618ec0999226a",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 556.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
+      "claudian:Open Claudian": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "738a4b6bac04e867",
+  "lastOpenFiles": [
+    "序言/序言.md",
+    "未命名.base",
+    "风和投资随笔总览.md",
+    "投资核心概念库.md",
+    "投资概念/3T时间框架.md",
+    "投资概念/3D股价驱动.md",
+    "2021/2021.01-进退自如.md",
+    "2021/2021.04-轮动.md",
+    "2021/2021.01-印钞的错误？.md",
+    "投资概念/观测推测不预测.md",
+    "投资概念/风险管理优于投资能力.md",
+    "投资概念/进退自如.md",
+    "投资概念/回撤管理.md",
+    "投资概念/低相关性组合.md",
+    "投资概念/5M投资框架.md",
+    "投资概念/多中与空大.md",
+    "投资概念/踩烂理论.md",
+    "胡言猛语/胡言猛语.md",
+    "2016/2016.11-11月与川普.md",
+    "2016.11-11 月与川普.md",
+    "2015/2015.06-做一个善良的投资者.md",
+    "投资概念/周期投资哲学.md",
+    "投资概念/缺陷投资.md",
+    "投资概念/逆势投资.md",
+    "投资概念/集中还是分散.md",
+    "投资概念/善良的投资者.md",
+    "投资概念/谦卑前行.md",
+    "投资概念/06-团队与执行",
+    "投资概念/05-研究框架与流程",
+    "投资概念/04-做空与对冲",
+    "投资概念/03-风险管理与组合构建",
+    "投资概念/02-投资策略与方法",
+    "投资概念/01-投资哲学与原则",
+    "投资概念",
+    "fix_formatting.py",
+    "2021",
+    "2020/images/97c7335b_figure_0324.png",
+    "2020/images/97c7335b_figure_0306.png",
+    "2020/images/97c7335b_figure_0292.png",
+    "2020/images/97c7335b_figure_0277.png",
+    "2020/images/97c7335b_figure_0269.png",
+    "2020/images/97c7335b_figure_0231.png",
+    "2020/images/97c7335b_figure_0216.png",
+    "2020/images/97c7335b_figure_0193.png",
+    "2020/images/97c7335b_figure_0163.png",
+    "2020/images/97c7335b_figure_0092.png"
+  ]
+}
