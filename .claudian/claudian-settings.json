@@ -30,7 +30,7 @@
       "enableBangBash": false,
       "enableOpus1M": false,
       "enableSonnet1M": false,
-      "lastModel": "sonnet",
+      "lastModel": "haiku",
       "environmentVariables": "ANTHROPIC_BASE_URL=\"https://api.tonbirds.com\"\nANTHROPIC_AUTH_TOKEN=\"sk-SPsiqqm3RekKZtJru4bX9Va4CJwIfPbNnUz8nqQ6aYUyM6Lj\"",
       "environmentHash": "ANTHROPIC_BASE_URL=https://api.tonbirds.com"
     },
@@ -42,9 +42,9 @@
       "reasoningSummary": "detailed",
       "environmentVariables": "",
       "environmentHash": "",
-      "installationMethod": "native-windows",
-      "installationMethodsByHost": {},
-      "wslDistroOverride": "",
+      "installationMethodsByHost": {
+        "wangbodeMacBook-Pro.local": "native-windows"
+      },
       "wslDistroOverridesByHost": {}
     }
   },

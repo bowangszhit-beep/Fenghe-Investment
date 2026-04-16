@@ -4,8 +4,8 @@
   "title": "你好",
   "titleGenerationStatus": "failed",
   "createdAt": 1776316806158,
-  "updatedAt": 1776318022223,
-  "lastResponseAt": 1776318022223,
+  "updatedAt": 1776321569342,
+  "lastResponseAt": 1776321569342,
   "sessionId": "ef91877e-e2fd-42c2-9635-e975353dbb96",
   "providerState": {
     "providerSessionId": "ef91877e-e2fd-42c2-9635-e975353dbb96",
@@ -16,10 +16,10 @@
   "usage": {
     "model": "haiku",
     "inputTokens": 1,
-    "cacheCreationInputTokens": 30942,
-    "cacheReadInputTokens": 18564,
+    "cacheCreationInputTokens": 31209,
+    "cacheReadInputTokens": 18724,
     "contextWindow": 200000,
-    "contextTokens": 49507,
+    "contextTokens": 49934,
     "percentage": 25,
     "contextWindowIsAuthoritative": true
   }
