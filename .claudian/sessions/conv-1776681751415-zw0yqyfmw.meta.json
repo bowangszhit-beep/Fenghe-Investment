@@ -4,19 +4,20 @@
   "title": "Initial greeting",
   "titleGenerationStatus": "success",
   "createdAt": 1776681751418,
-  "updatedAt": 1776752773830,
-  "lastResponseAt": 1776752773830,
+  "updatedAt": 1776760202546,
+  "lastResponseAt": 1776756803187,
   "sessionId": "702684d3-f326-4ef0-9c55-707fe623e4a4",
   "providerState": {
     "providerSessionId": "702684d3-f326-4ef0-9c55-707fe623e4a4"
   },
   "usage": {
-    "model": "haiku",
-    "inputTokens": 0,
-    "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 0,
+    "model": "opus",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 5486,
+    "cacheReadInputTokens": 20549,
     "contextWindow": 200000,
-    "contextTokens": 0,
-    "percentage": 0
+    "contextTokens": 26036,
+    "percentage": 13,
+    "contextWindowIsAuthoritative": true
   }
 }
