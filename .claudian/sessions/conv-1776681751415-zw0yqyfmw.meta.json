@@ -1,0 +1,23 @@
+{
+  "id": "conv-1776681751415-zw0yqyfmw",
+  "providerId": "claude",
+  "title": "Initial greeting",
+  "titleGenerationStatus": "success",
+  "createdAt": 1776681751418,
+  "updatedAt": 1776681759883,
+  "lastResponseAt": 1776681757160,
+  "sessionId": "702684d3-f326-4ef0-9c55-707fe623e4a4",
+  "providerState": {
+    "providerSessionId": "702684d3-f326-4ef0-9c55-707fe623e4a4"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 10,
+    "cacheCreationInputTokens": 1456,
+    "cacheReadInputTokens": 24862,
+    "contextWindow": 200000,
+    "contextTokens": 26328,
+    "percentage": 13,
+    "contextWindowIsAuthoritative": true
+  }
+}
